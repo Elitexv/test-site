@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "Elisha",
+    "email": "",
+    "url": ""
+  },
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^1.9.10"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
